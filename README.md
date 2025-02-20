@@ -1,2 +1,2 @@
-# Vais-a-penar-lo-m-s-grande-
-Mi repositorio personal
+# Sobre mí
+Profesor de informática
